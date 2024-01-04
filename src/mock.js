@@ -5,32 +5,32 @@ export const devOverview = {
     technologies :[
     {
         name: "HTML + CSS",
-        icon: "🏗️",
+        level: "Expert",
         color: "cornflowerBlue"
     },
     {
         name: "Javascript",
-        icon: "💼",
+        level: "Intermediate",
         color: "yellow"
     },
     {
         name: "Web design",
-        icon: "💻",
+        level: "Expert",
         color: "green"
     },
     {
         name: "Git + Github",
-        icon: "📑",
+        level: "Intermediate",
         color: "cadetBlue"
     },
     {
         name: "React",
-        icon: "🙂",
+        level: "Intermediate",
         color: "aqua"
     },
     {
         name: "Angular",
-        icon: "🌎",
+        level: "Beginner",
         color: "red"
     },
 ]}
